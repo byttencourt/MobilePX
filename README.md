@@ -1,5 +1,5 @@
 
-# 🚀 Nino MobilePX — Simulador de Rádio PX Profissional
+# 🚀 MobilePX — Simulador de Rádio PX Profissional
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 
 ## 📖 Sobre o Projeto
 
-O **Nino MobilePX** não é apenas um chat de voz; é um exercício de engenharia de áudio e redes. O projeto foi concebido para entregar uma experiência "Hardware-Like", onde cada botão, ruído de estática e bip de confirmação foi processado via código para emular o comportamento de frequências de rádio reais (RF).
+O **MobilePX** não é apenas um chat de voz; é um exercício de engenharia de áudio e redes. O projeto foi concebido para entregar uma experiência "Hardware-Like", onde cada botão, ruído de estática e bip de confirmação foi processado via código para emular o comportamento de frequências de rádio reais (RF).
 
 O sistema utiliza arquitetura de malha (Mesh) via WebRTC para garantir que a voz chegue aos outros operadores com o mínimo de atraso possível, essencial para simulações de comboios e logística.
 
