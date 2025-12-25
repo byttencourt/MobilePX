@@ -53,9 +53,7 @@ Este projeto demonstra domínio em diversas áreas críticas do desenvolvimento 
    mobilepx.vercel.app
    ```
 2. Faça o login ou entre como Acesso rapido:
-   ```bash
-   npm install
-   ```
+   
 3. Boa Diversão.
 
 
