@@ -48,19 +48,16 @@ Este projeto demonstra domínio em diversas áreas críticas do desenvolvimento 
 
 ## 🚀 Como Executar
 
-1. Clone o repositório:
+1. Acesse o site:
    ```bash
-   git clone https://github.com/byttencourt/NINO-Mod-Launcher.git
+   mobilepx.vercel.app
    ```
-2. Instale as dependências:
+2. Faça o login ou entre como Acesso rapido:
    ```bash
    npm install
    ```
-3. Configure as variáveis de ambiente no `.env` (Supabase URL e Anon Key).
-4. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   ```
+3. Boa Diversão.
+
 
 ---
 
